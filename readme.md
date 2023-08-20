@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Waybar</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -23,11 +23,12 @@
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
+- [Danko Fox](https://github.com/DankChoir)
 
 ## Contributing
 
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when possible
+> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when
+> possible
 
 Modify `template.json` using Rosé Pine variables, then build variants:
 
@@ -40,8 +41,13 @@ npx @rose-pine/build@latest
 > Be sure to remove this section 😌
 
 - Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Add a description and topics to automatically show the theme on [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-    - Description should read "Soho vibes for App" where "App" is the display name
-    - Topics should include "theme" as well as any other categories. See [existing categories](https://rosepinetheme.com/themes), only adding new ones when necessary
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- Repo name should be the simplest version of the app name, eg. iterm instead of
+  iTerm2
+- Add a description and topics to automatically show the theme on
+  [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
+  - Description should read "Soho vibes for App" where "App" is the display name
+  - Topics should include "theme" as well as any other categories. See
+    [existing categories](https://rosepinetheme.com/themes), only adding new
+    ones when necessary
+- Generate and upload social image via
+  [Rosé Pine Images](https://rose-pine-images.vercel.app)
