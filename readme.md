@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for <a href="https://github.com/Alexays/Waybar">Waybar</a></h2>
+    <h2 align="center">Rosé Pine for Waybar</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,13 +13,36 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+1. Clone the repo and choose your desired flavor e.g. `rose-pine-moon.css`
+2. Copy it into your waybar config folder e.g. `~/.config/waybar/`
+3. Import the flavor file at the top of your `style.css`
+   ```css
+   @import "<flavor>.css";
+   ```
+4. Use the colors in your Waybar `style.css`.
+
+   ```css
+   * {
+     /* reference the color by using @color-name */
+     background: @base;
+     border: 1px solid @overlay;
+   }
+   ```
 
 ## Gallery
 
-![Rosé Pine with App](https://user-images.githubusercontent.com/1474821/166155319-06796439-95a7-4aea-910e-927c1f24518e.png)
+<details>
+<summary>🌹 Rosé Pine</summary>
+<img src="assets/rose-pine.png"/>
+</details>
+<details>
+<summary>🌙 Rosé Pine Moon</summary>
+<img src="assets/rose-pine-moon.png"/>
+</details>
+<details>
+<summary>🌅 Rosé Pine Dawn</summary>
+<img src="assets/rose-pine-dawn.png"/>
+</details>
 
 ## Thanks to
 
