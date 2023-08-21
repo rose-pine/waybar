@@ -33,7 +33,7 @@
 
 <details>
 <summary>🌹 Rosé Pine</summary>
-<img src="assets/rose-pine.png"/>
+![Rosé Pine with Waybar](https://github.com/DankChoir/waybar-rosepine/assets/79992320/0bffd12b-48b3-44d1-bb61-d59363abf605)
 </details>
 <details>
 <summary>🌙 Rosé Pine Moon</summary>
@@ -47,30 +47,3 @@
 ## Thanks to
 
 - [Danko Fox](https://github.com/DankChoir)
-
-## Contributing
-
-> Prefer using [@rose-pine/build](https://github.com/rose-pine/build) when
-> possible
-
-Modify `template.json` using Rosé Pine variables, then build variants:
-
-```sh
-npx @rose-pine/build@latest
-```
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of
-  iTerm2
-- Add a description and topics to automatically show the theme on
-  [rosepinetheme.com/themes](https://rosepinetheme.com/themes)
-  - Description should read "Soho vibes for App" where "App" is the display name
-  - Topics should include "theme" as well as any other categories. See
-    [existing categories](https://rosepinetheme.com/themes), only adding new
-    ones when necessary
-- Generate and upload social image via
-  [Rosé Pine Images](https://rose-pine-images.vercel.app)
