@@ -32,16 +32,13 @@
 ## Gallery
 
 **🌹 Rosé Pine**
-![Rosé Pine with Waybar](https://github.com/DankChoir/waybar-rosepine/assets/79992320/0bffd12b-48b3-44d1-bb61-d59363abf605)
+![Rosé Pine](https://github.com/DankChoir/waybar-rosepine/assets/79992320/0bffd12b-48b3-44d1-bb61-d59363abf605)
 
-<details>
-<summary>🌙 Rosé Pine Moon</summary>
-<img src="assets/rose-pine-moon.png"/>
-</details>
-<details>
-<summary>🌅 Rosé Pine Dawn</summary>
-<img src="assets/rose-pine-dawn.png"/>
-</details>
+**🌙 Rosé Pine Moon**
+![Rosé Pine Moon](https://github.com/DankChoir/waybar-rosepine/assets/79992320/4f0b0613-b3bf-4dbe-8088-e0411a8e9e2b)
+
+**🌅 Rosé Pine Dawn**
+![Rosé Pine Dawn](https://github.com/DankChoir/waybar-rosepine/assets/79992320/d72a649e-7fdc-45a9-b127-f1ed818d1079)
 
 ## Thanks to
 
