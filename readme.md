@@ -17,7 +17,9 @@
 2. Copy it into your waybar config folder e.g. `~/.config/waybar/`
 3. Import the flavor file at the top of your `style.css`
    ```css
-   @import "<flavor>.css";
+   @import "./rose-pine.css";
+   /* @import "./rose-pine-moon.css"; */
+   /* @import "./rose-pine-dawn.css"; */
    ```
 4. Use the colors in your Waybar `style.css`.
 
@@ -26,6 +28,14 @@
      /* reference the color by using @color-name */
      background: @base;
      border: 1px solid @overlay;
+   }
+
+   #memory {
+     color: @foam;
+   }
+
+   #temperature {
+     color: @rose;
    }
    ```
 
