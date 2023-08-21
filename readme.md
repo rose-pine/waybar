@@ -31,10 +31,9 @@
 
 ## Gallery
 
-<details>
-<summary>🌹 Rosé Pine</summary>
+**🌹 Rosé Pine**
 ![Rosé Pine with Waybar](https://github.com/DankChoir/waybar-rosepine/assets/79992320/0bffd12b-48b3-44d1-bb61-d59363abf605)
-</details>
+
 <details>
 <summary>🌙 Rosé Pine Moon</summary>
 <img src="assets/rose-pine-moon.png"/>
