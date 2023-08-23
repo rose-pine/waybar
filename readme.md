@@ -13,9 +13,9 @@
 
 ## Usage
 
-1. Clone the repo and choose your desired flavor e.g. `rose-pine-moon.css`
+1. Clone the repo and choose your desired variant e.g. `rose-pine-moon.css`
 2. Copy it into your waybar config folder e.g. `~/.config/waybar/`
-3. Import the flavor file at the top of your `style.css`
+3. Import the variant file at the top of your `style.css`
    ```css
    @import "./rose-pine.css";
    /* @import "./rose-pine-moon.css"; */
